@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @betguy213
-- 👀 I’m interested in technology and anything military based. 
-- 🌱 I’m currently learning how to be a soldier
-- 💞️ I’m looking to collaborate on shutting down scammers
-- 📫 How to reach me email me @agtrumpetplayer@gmail.com or call me @ 3606862414
+Hi, My name is Betyguy213
+i am currently looking to go ahead and set up a FiveM server for the first time
+
+  
 
 <!---
 betguy213/betguy213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
